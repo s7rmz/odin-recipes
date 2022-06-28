@@ -1,0 +1,25 @@
+.main.head {
+    font-family:Verdana, Tahoma, sans-serif;
+    font-size: 48px;
+    color: #6699ff;
+    background-color: #000000;
+    text-align: center;
+}
+
+#recipe {
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+}
+
+#recipe.one {
+    background-color: #99ff66;
+}
+
+#recipe.two {
+    background-color: #ff4000;
+}
+
+#recipe.three {
+    background-color: #66b3ff;
+}
