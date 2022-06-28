@@ -13,13 +13,13 @@
 }
 
 #recipe.one {
-    background-color: #99ff66;
-}
-
-#recipe.two {
     background-color: #ff4000;
 }
 
-#recipe.three {
+#recipe.two {
     background-color: #66b3ff;
+}
+
+#recipe.three {
+    background-color: #99ff66;
 }
