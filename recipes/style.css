@@ -1,0 +1,24 @@
+img.centre {
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: 500px;
+}
+
+.head {
+    text-align: center;
+}
+
+.section {
+    text-align: center;
+    background-color: #ff531a;
+    color: white;
+}
+
+.section.cupcake {
+    background-color: #6699ff;
+}
+
+.section.salad {
+    background-color: #4dff4d;
+}
